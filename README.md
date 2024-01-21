@@ -8,7 +8,7 @@
 [4]: https://img.shields.io/github/license/dopos/dcape-app-kratos.svg
 [5]: LICENSE
 
-[upstream_name](https://upstream_url) application package for [dcape](https://github.com/dopos/dcape).
+[Ory Kratos](https://www.ory.sh/kratos/) application package for [dcape](https://github.com/dopos/dcape).
 
 ## Upstream
 
