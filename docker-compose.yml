@@ -5,5 +5,4 @@ services:
   # This service will extend code from dcape
   app:
     environment:
-      # Some var to keep YML struct
-      - DEBUG=yes
+      - DSN=postgres://${PGUSER}:${PGPASSWORD}@db/${PGDATABASE}?sslmode=disable&max_conns=20&max_idle_conns=4
